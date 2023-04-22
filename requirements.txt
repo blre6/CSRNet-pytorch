@@ -1,0 +1,7 @@
+gradio
+h5py
+matplotlib
+opencv-python
+pandas
+Pillow
+scipy
